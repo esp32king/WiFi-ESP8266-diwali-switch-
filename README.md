@@ -57,7 +57,7 @@ https://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 
 Select NodeMCU 1.0 (ESP-12E Module)
-## 2 Direct Flash and Use
+## 2 Direct Flash⚡ and Use
 this <a href="https://github.com/esp32king/WiFi-ESP8266-diwali-switch-/raw/refs/heads/main/bin/diwali-switches.bin">Diwali-Switches.bin </a> is bin file download it and direct flash and use without any coding with esp8266 app or sites, for beginners
 
 ## 📂 Install Libraries
