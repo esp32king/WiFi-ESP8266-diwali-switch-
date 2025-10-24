@@ -3,6 +3,17 @@
 ✨ A stunning ESP8266 Smart Switch Captive Portal project to control relays (lights, fan, room, crackers) via a beautiful web interface in Jai Shree Ram style!
 No Wi-Fi setup needed — it creates its own Hotspot + Captive Portal for instant access.
 
+## 🎨 Screenshot Preview
+<img src="https://raw.githubusercontent.com/esp32king/WiFi-ESP8266-diwali-switch-/refs/heads/main/Diwali-switches.jpg"></img>
+🌸 Glowing Jai Shree Ram interface 
+
+🪔 Floating diyas and fireworks background
+
+🔘 Control buttons for Crackers, Lights, Fan, Room
+
+💡 Real-time relay status update
+
+
 ## 🌟 Features
 
 ⚡ Captive Portal Access — Just connect to “Diwali Switch”, it auto-opens the control page.
@@ -90,17 +101,6 @@ HTTP server started
 
 📱 Connect to Wi-Fi “Diwali Switch” and enjoy controlling everything 🎆
 
-## 🎨 Screenshot Preview
-<img src="https://raw.githubusercontent.com/esp32king/WiFi-ESP8266-diwali-switch-/refs/heads/main/Diwali-switches.jpg"></img>
-🌸 Glowing Jai Shree Ram interface 
-
-🪔 Floating diyas and fireworks background
-
-🔘 Control buttons for Crackers, Lights, Fan, Room
-
-💡 Real-time relay status update
-
-(You can add a real screenshot here if you like!)
 
 ## 🧞‍♂️ Credits
 
